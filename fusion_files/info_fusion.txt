@@ -1,0 +1,17 @@
+Mass (only the electronics box):	3500 g
+Dimensions electronics box (X,Y,Z): 375, 310, 140 mm
+Centroide electronics box (X,Y,Z) : 255, 0, 405 mm
+Mass (hull + electronics box):	32820 g
+
+DATA (hull + electronics box):
+Center of mass (same ref. as in Rhino):	756, -1, 156 mm
+Moment of inertia w.r.t. the center of mass   (g mm^2):
+	Ixx	1.459E+09
+	Ixy	6.057E+06
+	Ixz	1.792E+08
+	Iyx	6.057E+06
+	Iyy	1.060E+10
+	Iyz	-2.794E+05
+	Izx	1.792E+08
+	Izy	-2.794E+05
+	Izz	1.102E+10

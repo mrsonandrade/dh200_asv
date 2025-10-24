@@ -1,0 +1,13 @@
+Hydrostatics
+
+Unit: meter
+Water elevation = 0.087 m
+Longitude = X
+
+Volume Displacement = 0.0327194
+Center of Buoyancy = 0.754366, 0.000981472, 0.0538432
+Wetted Surface Area = 0.955141
+Waterline Length = 1.91149
+Maximum Waterline Beam = 0.511575
+Water Plane Area = 0.766914
+Center of Floatation = 0.933745, 0.000980581,0.087
