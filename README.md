@@ -29,9 +29,18 @@ If you make use of the DH200 for your research, please cite our publication. Her
 
 ```
 @article{Benatti2025,
-    year = {2025},
-    author = {Thomaz Augusto Kras Benatti and Emerson Martins de Andrade and Maicon Rodrigo Correa and Felipe da Silva Lopes and João Paulo Machado dos Santos Bernardino and Joel Sena Sales Jr and Antonio Carlos Fernandes},
-    title = {A low cost, open-source, multipurpose autonomous surface vehicle},
+  title = {A Low-Cost,  Open-Source,  Multi-Purpose Autonomous Surface Vehicle},
+  volume = {13},
+  ISSN = {2077-1312},
+  url = {http://dx.doi.org/10.3390/jmse13122380},
+  DOI = {10.3390/jmse13122380},
+  number = {12},
+  journal = {Journal of Marine Science and Engineering},
+  publisher = {MDPI AG},
+  author = {Benatti,  Thomaz Augusto Kras and de Andrade,  Emerson Martins and Correa,  Maicon Rodrigo and Lopes,  Felipe da Silva and Bernardino,  João Paulo Machado dos Santos and Sales,  Joel Sena and Fernandes,  Antonio Carlos},
+  year = {2025},
+  month = dec,
+  pages = {2380}
 }
 ```
 
